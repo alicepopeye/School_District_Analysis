@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 # # Overview
 We need to change the reading score and math score to N/A for all the 9th grader at The Thomas High School due to dishonesty. Then we rerun the school distrcit analysis.
 
@@ -6,7 +6,7 @@ We need to change the reading score and math score to N/A for all the 9th grader
 Total Student Count = 39,170  
 The count for 9th grader in Thomas High School is 461, which is 1.18% of the total count.  
 
-* District Summary  
+# # # District Summary & School Summary
     Notes: 461 is a a very small percentage (1.18%) to the overall student count. It does not affect the district average as a whole.  
     Please see atachment (District Summary ScreenShot)
  
@@ -19,18 +19,18 @@ The count for 9th grader in Thomas High School is 461, which is 1.18% of the tot
     % Passing Reading: 85.8 vs 85.7 (changes -.1)  
     % Overall Passing: 65.2 vs 64.90 (changes -0.3)  
 
-    Top Five & Bottom Five Performing School: no changes
+    * Top Five & Bottom Five Performing School: no changes
 
-    Grade Score by grade level: no changes for other school, except it is N/A for Thomas High School-9th grade.
+    * Grade Score by grade level: no changes for other school, except it is N/A for Thomas High School-9th grade.
 
-    The scores by school spending per studen: no changes, Thomas High School's 9 th graders is still a head count on the school spending, so no changes
+    * The scores by school spending per studen: no changes, Thomas High School's 9 th graders is still a head count on the school spending, so no changes
 
-    The scores by school size: no changes
+    * The scores by school size: no changes
 
-    The score by school type: no changes
+    * The score by school type: no changes
   
-* School Summary  
-    Thomas High School  
+ 
+# # # Thomas High School  
     Notes: over 90% of 10th to 12th passed reading and math. So without the input from the 9th grader, they are still at passing rate of over 90%.  
     Please see attachments (2 charts for comparison before and after adjustment)  
 
