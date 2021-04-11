@@ -15,9 +15,9 @@ We need to change the reading score and math score to N/A for all the 9th grader
   
 * School Summary  
   Thomas High School  
-    Average Math Score  
-    Average Raeding Score  
-    % Passing Math  
-    % Passing Reading  
-    % Overall Passing  
+    Average Math Score: 83.42 vs 83.36 (changes -0.06)    
+    Average Reading Score: 83.85 vs 83.90 (changes -0.05)     
+    % Passing Math: 93.28 vs 93.19 (changes -0.09)  
+    % Passing Reading: 97.31 vs 97.02 (changes -0.29)   
+    % Overall Passing: 90.95 vs 90.63 (changes -0.32)  
   
