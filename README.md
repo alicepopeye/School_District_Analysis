@@ -1,12 +1,20 @@
 # School District Analysis
+  
 # # Overview
-We need to change the reading score and math score to N/A for all the 9th grader at The Thomas High School due to dishonesty. Then we rerun the school distrcit analysis.
+We need to change the reading score and math score to N/A for all the 9th grader at The Thomas High School due to dishonesty. Then we rerun the school distrcit analysis including the following:  
+    * District Summary  
+    * School Summary  
+    * Top Five & Bottom Five Performing School  
+    * Grade Score by grade level  
+    * The scores by school spending per student  
+    * The scores by school size  
+    * The score by school type  
 
 # # Result
 Total Student Count = 39,170  
 The count for 9th grader in Thomas High School is 461, which is 1.18% of the total count.  
 
-# # # District Summary & School Summary
+District Summary & School Summary
     Notes: 461 is a a very small percentage (1.18%) to the overall student count. It does not affect the district average as a whole.  
     Please see atachment (District Summary ScreenShot)
  
@@ -30,7 +38,7 @@ The count for 9th grader in Thomas High School is 461, which is 1.18% of the tot
     * The score by school type: no changes
   
  
-# # # Thomas High School  
+Thomas High School  
     Notes: over 90% of 10th to 12th passed reading and math. So without the input from the 9th grader, they are still at passing rate of over 90%.  
     Please see attachments (2 charts for comparison before and after adjustment)  
 
